@@ -19,11 +19,10 @@ At Webz Wave Solutions, our mission is to empower businesses with effective onli
 - HTML
 - CSS
 - JavaScript
-- [Any additional technologies or frameworks you use]
 
 ## Live Demo
 
-Visit our website to explore our services: [Webz Wave Solutions](https://webzwavesolutions.netlify.app/)
+Visit our website to explore our services: [Webz Wave Solutions](https://webzwavesolutions2.netlify.app/)
 
 ## Installation
 
